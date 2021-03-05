@@ -27,5 +27,17 @@ The analysis of the election shows that:
     - Diana DeGette, who received "73.8%" of the vote and "272,892" number of votes.
 
 ## Challenge Overview
+In addition to the Election Analysis given by Colorado Broard of Elections was:
+    - Determine the counties that were invole in the congressional election
+    - Calculate the voting turnout in each county
+    - Show the the calculated amount
+    - Return the county with the largest turnout
+     
 
 ## Challenge Summary
+Summary or the PyPoll Chanllenge are as follows:
+    - There are three(3) counties that voted.
+        - Jefferson had "38,855" which is "10.5%" of the total votes
+        - Denver had "306,055" which is "82.8%" of the total votes
+        - Arapahoe had "24,801" which is "6.7" of the total votes
+    - Denver county had the largest voter turn out
