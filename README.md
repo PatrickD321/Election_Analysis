@@ -36,8 +36,8 @@ In addition to the Election Analysis given by Colorado Broard of Elections was:
 
 ## Challenge Summary
 Summary or the PyPoll Chanllenge are as follows:
-    - There are three(3) counties that voted.
-        - Jefferson had "38,855" which is "10.5%" of the total votes.
-        - Denver had "306,055" which is "82.8%" of the total votes.
-        - Arapahoe had "24,801" which is "6.7" of the total votes.
+- There are three(3) counties that voted.
+    - Jefferson had "38,855" which is "10.5%" of the total votes.
+    - Denver had "306,055" which is "82.8%" of the total votes.
+    - Arapahoe had "24,801" which is "6.7" of the total votes.
     - Denver county had the largest voter turn out.
