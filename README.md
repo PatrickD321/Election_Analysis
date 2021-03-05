@@ -40,4 +40,4 @@ Summary or the PyPoll Chanllenge are as follows:
     - Jefferson had "38,855" which is "10.5%" of the total votes.
     - Denver had "306,055" which is "82.8%" of the total votes.
     - Arapahoe had "24,801" which is "6.7" of the total votes.
-    - Denver county had the largest voter turn out.
+- Denver county had the largest voter turn out.
